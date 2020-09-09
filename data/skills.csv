@@ -1,0 +1,25 @@
+category ,skill,,,,,
+Ciência de dados,Supervised machine learning,,,,,
+Ciência de dados,Modelos de regressão,,"Modelos de crédito (Credit Score, Behavior Score, Collection Score)",,,
+Ciência de dados,Automação de processos,,,,,
+Analytical ,Supervised machine learning,,,,,
+Programming ,R,,,,,
+Programming ,Python,,,,,
+Programming ,SQL,,,,,
+Pacotes R,shiny,,,,,
+,tidyverse,,,,,
+,rml,,,,,CIÊNCIA DE DADOS
+,caret,,,,,"• Raspagem de dados, acesso a bancos de dados, automação de processos, supervised Machine Learning,"
+,,,,,,"modelos de regressão, análise espacial, melhoria da qualidade dos dados, visualização de dados, criação"
+,,,,,,"de dashboards, paineis de indicadores, storytelling"
+Packages ,shiny,,,,,APLICAÇÕES
+Packages ,tidyverse,,,,,"• RStudio, Shiny, Jupyter notebook, Git, PostgreSQL, QGIS, Docker"
+Packages ,data.table,,,,,LINGUAGENS
+Packages ,Rcpp,,,,,"• R, Python, SQL"
+Packages ,pomp,,,,,
+Packages ,h2o,,,,,
+Packages ,brms,,,,,
+Tools ,Git,,,,,
+Tools ,Docker,,,,,
+Tools ,Travis,,,,,
+Tools ,AWS,,,,,
